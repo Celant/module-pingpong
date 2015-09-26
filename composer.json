@@ -1,0 +1,19 @@
+{
+    "name": "wildphp/module-pingpong",
+    "description": "Makes the bot respond to PING requests.",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Yoshi2889",
+            "email": "rick.2889@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WildPHP\\Modules\\PingPong\\": "src"
+        }
+    },
+    "minimum-stability": "alpha",
+    "prefer-stable": true
+}
